@@ -157,11 +157,6 @@ img {
     font-size: 20px;
   }
 }
-@media (max-width: 900px) {
-  .welcome-section {
-    min-height: 70vh;
-  }
-}
 
 @keyframes plus {
   0% {

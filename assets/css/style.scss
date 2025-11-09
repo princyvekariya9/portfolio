@@ -203,11 +203,7 @@ img {
         @include for-tablet() {
             font-size: 20px;
         }
-    }
-
-    @include for-tablet() {
-        min-height: 70vh;
-    }
+    } 
 }
 
 @keyframes plus {
